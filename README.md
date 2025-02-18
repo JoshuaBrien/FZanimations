@@ -1,0 +1,2 @@
+# FZanimations
+Flipper Zero animations 
