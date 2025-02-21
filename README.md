@@ -1,5 +1,5 @@
 # FZanimations
-Flipper Zero animations \
+Flipper Zero animations 
 
 **raven_enter** 
 
