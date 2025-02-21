@@ -1,6 +1,6 @@
 # FZanimations
 Flipper Zero animations 
-
+some of the animations are sped up so it'll be at the 'normal' speed while rendering on the flipper zero
 **raven_enter** 
 
 ![ravenenterBW](https://github.com/user-attachments/assets/6489ac22-97d4-40dc-a822-2feed7179ad1)  
